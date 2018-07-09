@@ -5,6 +5,7 @@ FCC - Timestamp Microservice
 
 ## Example usage:
 https://tdt-timestamp-microservice.herokuapp.com/api/timestamp/2015-12-25
+
 https://tdt-timestamp-microservice.herokuapp.com/api/timestamp/1450137600
 
 ## Example Output:
